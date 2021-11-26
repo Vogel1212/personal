@@ -42,5 +42,5 @@ object **Vogel1212** {
 
 #### Rede Sociais!
 
-📷 [instagram][https://www.instagram.com/gabriel.vogel/] **|** 
-👔 [linkedin][https://www.linkedin.com/in/gabriel-vogel-a92149182/] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
